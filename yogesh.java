@@ -1,2 +1,1 @@
-new update
-second line is updated
+new updated
